@@ -1,7 +1,7 @@
 Joda-Time
 ---------
 
-Forked from Dr. Yu's repository:
+NOTE: Forked from Dr. Yu's repository
 
 Joda-Time provides a quality replacement for the Java date and time classes.
 The design allows for multiple calendar systems, while still providing a simple API.
